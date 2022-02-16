@@ -1,8 +1,8 @@
-#calculator
+# calculator
 ---
-##preview
-![m'lady](https://drive.google.com/file/d/1gL2x2R67KRLVsBFyzQVmtragp28PwA94/view?usp=sharing)
+## preview
+![m'lady]()
 ---
-##contact us
-*Email : davidchaharmehali@gmail.com
-*instagram : @dchm__
+## contact us
+* Email : davidchaharmehali@gmail.com
+* instagram : @dchm__
